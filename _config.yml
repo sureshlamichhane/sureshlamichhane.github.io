@@ -1,15 +1,16 @@
 # Site settings
-title: Clean Blog
-header-img: img/home-bg.jpg
+title: Travel Diary
+header-img: img/cover.jpg
 email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
+copyright_name: TravelDiary Suresh Lamichhane
+description: "We will do such UTPATYANG in coming days too!"
+baseurl: ""
+#baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+twitter_username: lcsuresh726
+github_username:  sureshlamichhane
+facebook_username:  suresh726
+email_username:  suresh.lamichhane726@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
